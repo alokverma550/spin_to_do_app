@@ -8,3 +8,7 @@
     ## Laravel USERNAME : spin@spin.com
     ## Laravel PASSWORD : spin1234#
 
+    Run command:
+        ## cd <root-project-location>
+        ## php artisan serve
+
